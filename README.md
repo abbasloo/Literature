@@ -46,7 +46,33 @@ https://arxiv.org/pdf/1812.06638.pdf
         
 https://arxiv.org/pdf/1810.07181.pdf
         
-        
+3D ideas
+
+https://arxiv.org/pdf/1705.02090.pdf
+
+https://arxiv.org/pdf/1708.01841.pdf
+
+https://arxiv.org/pdf/1808.03981.pdf
+
+http://vcc.szu.edu.cn/file/upload_file/image/research/att201809231254/G2L.pdf
+
+https://arxiv.org/pdf/1809.05398.pdf
+
+https://arxiv.org/pdf/1809.05050.pdf
+
+https://arxiv.org/pdf/1803.09263.pdf
+
+http://www.cs.sfu.ca/~haoz/pubs/hu_sig18_icon4.pdf
+
+mesh 
+
+https://arxiv.org/pdf/1709.04304.pdf
+
+https://arxiv.org/pdf/1709.04307.pdf
+
+https://arxiv.org/pdf/1810.02042.pdf
+
+
 
 
 
