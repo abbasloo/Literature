@@ -72,6 +72,12 @@ https://arxiv.org/pdf/1709.04307.pdf
 
 https://arxiv.org/pdf/1810.02042.pdf
 
+point cloud 
+
+https://arxiv.org/pdf/1612.00593.pdf
+
+https://arxiv.org/pdf/1706.02413.pdf
+
 
 
 
