@@ -78,6 +78,16 @@ https://arxiv.org/pdf/1612.00593.pdf
 
 https://arxiv.org/pdf/1706.02413.pdf
 
+RL
+
+https://arxiv.org/pdf/1509.02971.pdf
+
+http://proceedings.mlr.press/v48/mniha16.pdf
+
+https://arxiv.org/pdf/1509.06461.pdf
+
+https://arxiv.org/pdf/1507.06527.pdf
+
 
 
 
