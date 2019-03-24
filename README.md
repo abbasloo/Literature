@@ -88,6 +88,31 @@ https://arxiv.org/pdf/1509.06461.pdf
 
 https://arxiv.org/pdf/1507.06527.pdf
 
+RL ideas
+
+https://arxiv.org/pdf/1611.04201.pdf
+
+https://arxiv.org/pdf/1609.05143.pdf
+
+simulators
+
+https://arxiv.org/pdf/1712.05474.pdf
+
+https://arxiv.org/pdf/1712.03931.pdf
+
+http://www.jdl.ac.cn/doc/2011/201811215113554442_weichao%20qiu%20et.%20al.%20unrealcv%20acm-mm.pdf
+
+https://link.springer.com/content/pdf/10.1007/s11263-018-1073-7.pdf
+
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf
+
+https://arxiv.org/pdf/1804.00103.pdf
+
+
+
+
+
+
 
 
 
