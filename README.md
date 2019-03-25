@@ -88,11 +88,25 @@ https://arxiv.org/pdf/1509.06461.pdf
 
 https://arxiv.org/pdf/1507.06527.pdf
 
+https://arxiv.org/pdf/1706.10295.pdf
+
+https://arxiv.org/pdf/1604.06778.pdf
+
+https://arxiv.org/pdf/1511.06581.pdf
+
+https://arxiv.org/pdf/1511.05952.pdf
+
 RL ideas
 
 https://arxiv.org/pdf/1611.04201.pdf
 
 https://arxiv.org/pdf/1609.05143.pdf
+
+RL locomotion
+
+https://dl.acm.org/citation.cfm?id=3073602
+
+https://dl.acm.org/citation.cfm?id=2925881
 
 simulators
 
